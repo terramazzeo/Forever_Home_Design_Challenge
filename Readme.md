@@ -18,6 +18,18 @@ We will document each home design and the systemic body of knowledge that inform
 
 _*Contributions above $20 will go toward the construction of the Forever Home - Thank You_
 
+## How to Submit Your Design
+
+
+**Email Entry:** aaron@opentechforever.com
+
+**Mail-In Entry:** 
+> 800 Pennsylvania St. #310
+
+> Denver, CO 80205
+
+> C/O Aaron Makaruk
+
 ## Rules
 
 Read the complete contest rules <a href="http://issuu.com/amakaruk/docs/afh___otf_-_forever_home_design_cha" target="_blank">here</a> or download them [here](https://github.com/AfH-Denver/Forever_Home_Design_Challenge/blob/master/Forever%20Home%20Design%20Challenge.pdf?raw=true).
