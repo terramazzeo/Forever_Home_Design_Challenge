@@ -1,6 +1,6 @@
 ![Forever Home Design Challenge](http://farm3.staticflickr.com/2883/10617890654_49638b9329_b.jpg)
 
-**Read the rules** <a href="http://issuu.com/amakaruk/docs/afh___otf_-_forever_home_design_cha" target="_blank">here</a> or download them [here](https://github.com/AfH-Denver/Forever_Home_Design_Challenge/blob/master/Forever%20Home%20Design%20Challenge.pdf?raw=true).
+**Read** the unabridged rules online <a href="http://issuu.com/amakaruk/docs/afh___otf_-_forever_home_design_cha" target="_blank">here</a> or download them [here](https://github.com/AfH-Denver/Forever_Home_Design_Challenge/blob/master/Forever%20Home%20Design%20Challenge.pdf?raw=true).
 
 ## Welcome
 
@@ -22,6 +22,8 @@ _*Contributions above $20 will go toward the construction of the Forever Home - 
 
 
 **Email Entry:** aaron@opentechforever.com
+
+> _Subject:_ Forever Home Design Submission
 
 **Mail-In Entry:** 
 > 800 Pennsylvania St. #310
@@ -54,5 +56,7 @@ You happen to be on the Forever Home Design Challenge Wiki right now. We encoura
 ### Video Hangouts With Experts
 
 Check back or check your email inbox for news about upcoming online events. Our goal is to learn from one another and document/share what we discover for the benefit of everyone.
+
+## Thank You
 
 ![Thank You](http://farm4.staticflickr.com/3670/10619950584_88aca0dfb1_b.jpg)
