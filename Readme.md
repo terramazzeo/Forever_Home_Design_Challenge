@@ -10,6 +10,10 @@ We invite you to join our international call to action. Enter the contest and he
 
 We will document each home design and the systemic body of knowledge that informs this process, so that anyone in the world can both learn from and contribute to the project. This is an **open source house for the world**. The _Forever Home_. 
 
+## Email Signup
+
+Sign up [here](http://eepurl.com/G23hj) to receive updates and invitations to free, live online workshops with sustainable building experts.
+
 ## How to Enter
 
 1. Fill out the <a href="https://docs.google.com/forms/d/1-waN44kGZkuZpBWX9APkQYAzGp_T-VqwubBiyprNcc4/viewform" target="_blank">entry form</a>.
