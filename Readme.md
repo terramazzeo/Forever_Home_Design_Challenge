@@ -30,7 +30,11 @@ _*Contributions above $20 will go toward the construction of the Forever Home - 
 
 > Denver, CO 80205
 
-> C/O Aaron Makaruk
+> C/O Aaron Makaruksdfadf
+
+## Deadline
+
+The deadline to register for the challenge is **December 1st, 2013**.
 
 ## Rules
 
